@@ -1,5 +1,5 @@
 ########################################################
-# Samuel Sisto - samusisto
+# Samuel Sisto - @samusisto
 # Eimi Saiz - @EimiSaiz
 # TP 5 - Eje. 10: Texto binario
 # UNRN Andina - Introducción a Ingeniería en Computación
